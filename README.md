@@ -1,3 +1,5 @@
+![logo](https://github.com/AkashKushwah90/AkashKushwah90/blob/main/Screenshot%202025-03-14%20041959.jpg)
+
 <h1 align="center">Hi 👋, I'm AKASH KUSHWAH</h1>
 <h3 align="center">A passionate Software Engineer From India </h3>
 
